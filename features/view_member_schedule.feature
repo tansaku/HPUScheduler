@@ -3,7 +3,6 @@ Feature: View Member's Schedules
   So I can better schedule club events
   I want to view my member's schedules
 
-
   Scenario: View List of Club Members
     Given I am in Google Apps on the HPU Pipeline
     When I click on "View Club Members"
