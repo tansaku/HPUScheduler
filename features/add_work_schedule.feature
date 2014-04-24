@@ -1,3 +1,6 @@
+#Author: Eric Gagnon
+#Date April 24, 2014
+
 Feature: Add Work Schedule
   As a Student
   So I can manage my work and school schedules

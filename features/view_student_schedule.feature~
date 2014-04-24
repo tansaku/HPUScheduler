@@ -1,3 +1,6 @@
+#Author: Eric Gagnon
+#Date April 24, 2014
+
 Feature: View Student Schedule
   As an Academic Advisor
   So I can help the Student schedule courses

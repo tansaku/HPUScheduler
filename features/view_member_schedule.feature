@@ -1,3 +1,6 @@
+#Author: Eric Gagnon
+#Date April 24, 2014
+
 Feature: View Member's Schedules
   As a Student Organization
   So I can better schedule club events
