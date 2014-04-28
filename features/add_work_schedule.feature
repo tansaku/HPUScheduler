@@ -8,11 +8,11 @@ Feature: Add Work Schedule
 
   Scenario: Show add/edit work schedule form
     Given I am on Google Apps on HPU Pipeline
-    When I click on add/edit work schedule
-    Then I should see the add/edit work schedule form
-    And I fill "Days Working" with "Monday"
-    And I fill "Time Working"  with "0800-1600"
-    And I click on "Submit"
+    When I click on "add/edit work schedule"
+    Then I should see "the add/edit work schedule form"
+    And I fill in "Days Working" with "Monday"
+    And I fill in "Time Working" with "0800-1600"
+    And I press "Submit"
     Then I should see "Schedule Added"
 
   Scenario: Adds Incorrect Time
